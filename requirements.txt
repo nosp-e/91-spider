@@ -1,0 +1,4 @@
+pyquery
+bs4
+aiohttp
+js2py
