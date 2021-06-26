@@ -28,3 +28,6 @@ python main.py page
 
 * windows：win10自带的“电影与电视”，将你的下载目录加入到该软件的视频库目录中，然后就可以预览所有的视频文件了；
 * linux：使用类似NAS的解决方案，比如jellyfin；会用linux看这个的老哥起码的部署应该是懂的，可以用docker简化流程；
+
+**Ref：**
+* https://github.com/jakehu/91porn
